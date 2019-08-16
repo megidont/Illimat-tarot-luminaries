@@ -6,7 +6,7 @@ While the Fool is on the board, a player can harvest in that field by playing a 
 
 ##  1. The Magician:
 
-While the Magician is on the board, any harvests made in the Magician's field must be stacked face down under the Magician. Additionally, players may stockpile and harvest on the same turn in the Magician's field. When you claim the Magician, add all face down cards under the Magician to your harvest.
+While the Magician is on the board, any harvests made in the Magician's field must be stacked face down under the Magician. Additionally, players may stockpile and harvest on the same turn in the Magician's field (if the season allows these actions). When you claim the Magician, add all face down cards under the Magician to your harvest.
 
 ##  2. The High Priestess:
 
@@ -34,7 +34,7 @@ When the Chariot is revealed, reseed 9 crops instead of the usual 3. While it re
 
 ##  8. Strength:
 
-While Strength is on the board, you may harvest in its field only by playing a card higher than the value of the crop you are harvesting (for instance, you may only harvest a 2 with a 3 or higher, but you do not have to add up to 3.)
+While Strength is on the board, you may harvest in its field only by playing a card higher than the value of the crop(s) or stockpile you are harvesting (for instance, you may only harvest a 2 with a 3 or higher, and you can harvest any combination of cards with lower than the card you are playing).
 
 ##  9. The Hermit:
 
@@ -42,7 +42,7 @@ While the Hermit is on the board, any time everybody takes a turn without intera
 
 ## 10. Wheel Of Fortune:
 
-When Wheel of Fortune is revealed, draw 2 more Luminaries and reveal them. Until Wheel of Fortune is collected, these two Luminaries will remain revealed in Wheel of Fortune's field; however, when the field is cleared only Wheel of Fortune is collected, while the others are discarded.
+When Wheel of Fortune is revealed, draw 2 more Luminaries and reveal them. Until Wheel of Fortune is collected, these two Luminaries will remain revealed in Wheel of Fortune's field, with their effects taking place as usual; however, when the field is cleared only Wheel of Fortune is collected, while the others are removed from play.
 
 ## 11. Justice:
 
@@ -50,7 +50,7 @@ When Justice is revealed, the player with the most okus tokens must return one t
 
 ## 12. The Hanged Man:
 
-While the Hanged Man is on the board, any player may, after any player takes their turn, remove from play the most recent of their harvested cards and one of the cards in any field. They may also elect to remove five of their harvested cards from play to immediately clear the Hanged Man's field. If a field is cleared through either of these actions, all cards in it are removed from play and, if the Hanged Man's field is not the one that is cleared, the Luminary is swapped for the Hanged Man before the player claims it (such that the player will always claim the Hanged Man for clearing in this way.)
+While the Hanged Man is on the board, any player may, after any player takes their turn, remove from play the most recent of their harvested cards and one of the cards in any field. They may also elect to remove the five most recent of their harvested cards from play to immediately clear the Hanged Man's field. If a field is cleared through either of these actions, all cards in it are removed from play and, if the Hanged Man's field is not the one that is cleared, the Luminary is swapped for the Hanged Man before the player claims it (such that the player will always claim the Hanged Man for clearing in this way.)
 
 ## 13. Death:
 
@@ -66,7 +66,7 @@ When the Devil is revealed, all currently sown crops are moved into the Devil's 
 
 ## 16. The Tower:
 
-When the Tower is revealed, all players must remove their hands from play and draw a new hand. When you claim the Tower, you may compel one player to remove their hand from play and draw a new hand.
+When the Tower is revealed, all players must remove their hands from play and draw a new hand, with each player drawing one card at a time in clockwise order around the table. When you claim the Tower, you may compel one player to remove their hand from play and draw a new hand. If the draw pile is depleted, you must still remove your hand from play, and if it is depleted in the course of drawing a new hand play will continue with the partial hand.
 
 ## 17. The Star:
 
@@ -82,7 +82,7 @@ When the Sun is revealed, each player must draw a card. While the Sun is on the 
 
 ## 20. Judgement:
 
-While Judgement is on the board, any face cards played in its field will have their suit treated as Stars (i. e., the player can choose which season to change that field to). If you have claimed Judgement, at the end of any player's turn you may remove it from play and change the season to any you choose.
+While Judgement is on the board, any face cards played in its field will have their suit treated as Stars (i. e., the player can choose which season to change that field to). If you have claimed Judgement, at the end of any player's turn you may remove Judgement from play and change the season to any you choose.
 
 ## 21. The World:
 
